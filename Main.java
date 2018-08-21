@@ -1,5 +1,6 @@
 import java.util.Random;
-import java.util.Scanner; 
+import java.util.Scanner;
+
 public class Main{
 	public static void elf(){
 		Random escolhe = new Random();		
